@@ -1,6 +1,6 @@
 ## Fill out the following form before creating your pull request.
 
-**Language of the submmited solution, specify version if applicable (JavaScript, Python 2, Python 3, C++ 11):**  
+**Language of the submitted solution, specify version if applicable (JavaScript, Python 2, Python 3, C++ 11):**  
 
 **Link to TSSOJ submission that follows this solution exactly: (example: tssoj.me/submission/123):**  
 
