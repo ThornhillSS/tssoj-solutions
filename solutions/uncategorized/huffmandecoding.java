@@ -27,6 +27,6 @@ public class HuffmanDecoding {
 				x = ""; // reset the string for future checks
 			}
 		}
-		System.out.println(ans); // print out my answer
+		System.out.println(ans); // print out the decoded message
 	}
 }
