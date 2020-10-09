@@ -29,5 +29,5 @@ If you wish to modify an existing solution it should be for at least one of the 
 If you have met the above requirements follow these instructions to contribute:
 1. Navigate to the [Github Repository](https://github.com/ThornhillSS/tssoj-solutions).
 2. Create a new fork of the repository under your Github account by clicking the fork button in the top right.
-3. Go to your forked version of the repository and create a new file with your solution in it or make your modification to the existing file. Make sure your file is named identically to the code of the problem being solved with the correct file extension, and make sure it is located in the correct category folder. Only modify or add one solution per pull reqiest.
+3. Go to your forked version of the repository and create a new file with your solution in it or make your modification to the existing file. Make sure your file is named identically to the code of the problem being solved with the correct file extension, and make sure it is located in the correct category folder. Only modify or add one solution per pull request.
 4. Go back to the original repository and create a new pull request using your fork. Follow the instructions in the pull request template.
