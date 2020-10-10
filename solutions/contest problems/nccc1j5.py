@@ -1,4 +1,4 @@
-l = input() #store length of string (not really needed)
+l = input() #store length of string 
 s = input() #store string in variable 's'
 n = 0 #counter for how many open/close brackets needed
 
