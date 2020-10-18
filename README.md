@@ -15,7 +15,7 @@ The solution files are named identically to the corresponding problem code on TS
 If you wish to contribute to the solutions repository please make sure of the following if you are adding a new solution:
 1. The solution does not already exist in this repository implemented in the submitted language. You may contribute a solution implemented in a language that has not already been added.
 2. The solution passes *all* test cases on TSSOJ.
-3. The solution is properly documented. The general idea behind the solution should be included as comments in the program.
+3. Although not required, the solution should be properly documented. The general idea behind the solution should be included as comments in the program. Unless the solution is trivial.
 4. The solution uses reasonable coding standards. There are no restrictions on specific brace style, indentation etc. as long as it is consistent and readable.
 5. The solution uses the language's standard input and output.
 6. The solved problem should not be from ICS, or other private organizations.
