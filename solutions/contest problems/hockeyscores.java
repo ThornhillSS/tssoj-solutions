@@ -79,27 +79,8 @@ public class Main {
             G.get(i).add(p);
           }
         }
-        //out.write(p.toString());
-        //out.write("\n");
       }
-
-      //out.write(String.valueOf(G.size()));
-      //out.write("\n");
-
       System.out.println(G.size());
-
-      /*
-
-      for(ArrayList<Pair> parr : G){
-        for(Pair p_in : parr){
-          //out.write(p_in.toString() + " ");
-          System.out.print(p_in.toString() + " ");
-        }
-        System.out.println();
-        //out.write("\n");
-      }
-        */
     }
-      //out.flush();
   } 
 }
