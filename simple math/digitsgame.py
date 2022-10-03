@@ -1,0 +1,11 @@
+my_int = input()
+
+my_list = [int(x) for x in str(my_int)] # Sperates the digits into an array
+
+ans = 0
+
+# Adds all the digits together
+for x in my_list:
+    ans = ans + x
+
+print(ans)
