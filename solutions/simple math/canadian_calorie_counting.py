@@ -13,20 +13,21 @@ elif int(firstchoice) == 2:
     calorieamount = calorieamount + 431
 elif int(firstchoice) == 3:
     calorieamount = calorieamount + 420
-
+    
 if int(secondchoice) == 1:
-    calorieamount = calorieamount + 130
+    calorieamount = calorieamount + 100
 elif int(secondchoice) == 2:
-    calorieamount = calorieamount + 160
+    calorieamount = calorieamount + 57
 elif int(secondchoice) == 3:
-    calorieamount = calorieamount + 118
+    calorieamount = calorieamount + 70
 
 if int(thirdchoice) == 1:
-    calorieamount = calorieamount + 100
+    calorieamount = calorieamount + 130
 elif int(thirdchoice) == 2:
-    calorieamount = calorieamount + 57
+    calorieamount = calorieamount + 160
 elif int(thirdchoice) == 3:
-    calorieamount = calorieamount + 70
+    calorieamount = calorieamount + 118
+
 
 if int(fourthchoice) == 1:
     calorieamount = calorieamount + 167
